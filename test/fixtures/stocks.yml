@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticker: MyString
+  start: 2015-02-02
+  end: 2015-02-02
+  story: MyText
+
+two:
+  ticker: MyString
+  start: 2015-02-02
+  end: 2015-02-02
+  story: MyText
